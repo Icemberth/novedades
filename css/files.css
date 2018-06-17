@@ -1,0 +1,9 @@
+.files {
+  display: flex;
+}
+.files .codensa {
+  width: 50%;
+}
+.files .bv {
+  width: 50%;
+}
